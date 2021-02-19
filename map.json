@@ -27,12 +27,6 @@
          "id":11,
          "name":"bewegungs radius ",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
